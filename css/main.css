@@ -1,0 +1,64 @@
+body{
+	font-family: "Palatino Linotype","Times New Roman", Georgia, Serif;
+    font-size: 14px;
+	color: black;
+}
+
+#zoneFormulaire{
+	border: 3px solid #BBD2E1;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+	background-color: #BBD2E1;
+	margin: auto;
+	width: 50%;
+}
+
+label{
+	font-weight: bold;
+}
+
+thead {
+	background-color: blue;
+	color: white;
+	font-weight: bold;
+}
+
+.tblDimension{
+	width: 80%;
+	margin: auto;
+}
+
+.titre{
+	padding-bottom: 2px;
+	color: blue;
+}
+
+#matable{
+	width: 70%;
+}
+
+#zoneErreur{
+	border: 3px solid #BBD2E1;
+    position: absolute;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+	margin: auto;
+    width: 50%;
+	background-color: #BBD2E1;
+	height: 250px;
+	top: 30%;
+	margin-left: 30%;
+	/*margin-top: -175px;
+	margin-left: 33%;*/		
+}
+
+a {
+	font-weight: bold;
+}
+
+.colBtn{
+	background: #0B1616;
+	text-align: center;
+}
+
+.btnTaleau{
+    width: 30px;
+}
